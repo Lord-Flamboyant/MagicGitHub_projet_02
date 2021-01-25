@@ -29,7 +29,4 @@ public class UserRepository {
         users.remove(user);
     }
 
-    public ApiService getApiService() {
-        return apiService;
-    }
 }
